@@ -50,6 +50,23 @@ header {
   padding-right: 20px;
 }
 
+nav ul {
+  padding: 0;
+  
+}
+
+nav ul li {
+  list-style: none;
+  line-height: 16pt;
+  
+}
+
+nav ul li a {
+  text-transform: none;
+  color: grey;
+  text-decoration: none;
+}
+
 footer {
   margin: 100px;
 }
